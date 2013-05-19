@@ -4,11 +4,11 @@
 	<parent>
 		<artifactId>mul-mod</artifactId>
 		<groupId>com.test</groupId>
-		<version>1.5-SNAPSHOT</version>
+		<version>30.0</version>
 	</parent>
 	<groupId>com.test</groupId>
 	<artifactId>mul-mod-con</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<version>30.0</version>
 	<name>MUL-MOD-con</name>
 		
 	<dependencies>
