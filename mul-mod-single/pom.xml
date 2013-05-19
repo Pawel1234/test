@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>mul-mod-single</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>MUL-MOD-single</name>
 
 	<scm>
@@ -37,7 +37,7 @@
 					<artifactId>maven-release-plugin</artifactId>
 					<version>2.2.1</version> 
 					<configuration>
-						<tagNameFormat>v@{project.version}</tagNameFormat>
+						<tagNameFormat>version@{project.version}</tagNameFormat>
 						<pushChanges>false</pushChanges>
 				    </configuration>
 				</plugin>
